@@ -1,0 +1,1084 @@
+{
+  "product_id": "1HNUTIOJLSZR",
+  "type": "PRODUCT",
+  "pcf_version": 1,
+  "product_version": 1502908894196,
+  "tenant_id": "1",
+  "variant_metadata_normalized": {
+    "actual_color": [
+      {
+        "properties": {
+          "attributeName": "Actual Color",
+          "attributeId": "10304"
+        },
+        "values": [
+          {
+            "locale": "en_CA",
+            "source_value": "White",
+            "sourceType": "legacy_actual_color",
+            "value": "White",
+            "source_key": "color"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "request_batch_id": "canada_mp_itemsetup",
+    "product_class_type": "VARIANT",
+    "qid_list": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+    "product_content_status": "APPROVED",
+    "variant_group_id": "1925026740",
+    "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+    "product_lifecycle_status": "ACTIVE",
+    "locale": "en_CA",
+    "product_setup_type": "PRIMARY"
+  },
+  "request_context": {
+    "last_source": "MARKETPLACE_PARTNER",
+    "last_qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a"
+  },
+  "grouping": {
+    "variant": {
+      "groupId": "df9742dc-ed54-416a-8c1a-4483f136ae27",
+      "type": "variant",
+      "timestamp": "1502908893088",
+      "abstractProductId": "4MZAIR2FCVO9",
+      "primary": true,
+      "attributes": {
+        "actual_color": {
+          "properties": {
+            "source": "MARKETPLACE_PARTNER"
+          },
+          "values": [
+            {
+              "locale": "en_CA",
+              "value": "White"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "abstract_product_id": "4MZAIR2FCVO9",
+  "product_attributes": {
+    "country_of_origin_textiles": {
+      "properties": {
+        "attributeId": "-1821546169",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Country of Origin - Textiles",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "USA",
+          "source_key": "countryoforigintextiles",
+          "value": "USA"
+        }
+      ]
+    },
+    "collar_type": {
+      "properties": {
+        "attributeId": "8530",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Collar Type",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "collarType",
+          "source_key": "collartype",
+          "value": "collarType"
+        }
+      ]
+    },
+    "small_parts_warning_code": {
+      "properties": {
+        "attributeId": "10555",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Small Parts Warning Code",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "0",
+          "source_key": "smallpartswarnings",
+          "value": "0"
+        }
+      ]
+    },
+    "color": {
+      "properties": {
+        "attributeId": "10303",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Color",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "White",
+          "isVariant": "true",
+          "source_key": "color",
+          "value": "White"
+        }
+      ]
+    },
+    "gender": {
+      "properties": {
+        "attributeId": "10302",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Gender",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Male",
+          "source_key": "gender",
+          "value": "Male"
+        }
+      ]
+    },
+    "primary_shelf": {
+      "properties": {
+        "attributeId": "shelf",
+        "added": "Wed Aug 16 11:41:33 PDT 2017",
+        "attributeName": "Primary Shelf",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "status": "VERIFIED"
+      },
+      "values": [
+        {
+          "all_paths_str": "[[\"Root\",\"Clothing, Shoes & Accessories\",\"Men\",\"Men's Plus Size\",\"Men's Plus Size Dress Shirts\"]]",
+          "path_id": "[\"0\",\"10017\",\"21070\",\"21071\",\"32096\"]",
+          "all_paths_id": "[[\"0\",\"10017\",\"21070\",\"21071\",\"32096\"]]",
+          "taxonomy_version": "~draft",
+          "id": "32096",
+          "taxonomy": "site-walmart-ca",
+          "locale": "en_CA",
+          "value": "Men's Plus Size Dress Shirts",
+          "tag_source": "rule",
+          "path_str": "[\"Root\",\"Clothing, Shoes & Accessories\",\"Men\",\"Men's Plus Size\",\"Men's Plus Size Dress Shirts\"]"
+        }
+      ]
+    },
+    "alternate_shelves": {
+      "properties": {
+        "attributeId": "alternate_shelves",
+        "attributeName": "Alternate Shelves",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "locale": "en_CA",
+          "value": "32096"
+        },
+        {
+          "isPrimary": "true",
+          "locale": "en_CA",
+          "value": "5807774639543"
+        }
+      ]
+    },
+    "clothing_size_group": {
+      "properties": {
+        "attributeId": "-1424367711",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Clothing Size Group",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Big & Tall",
+          "source_key": "clothingsizegroup",
+          "value": "Big & Tall"
+        }
+      ]
+    },
+    "pattern": {
+      "properties": {
+        "attributeId": "10307",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Pattern",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "solid",
+          "source_key": "pattern",
+          "value": "solid"
+        }
+      ]
+    },
+    "primary_category_path": {
+      "properties": {
+        "attributeId": "primary_category_path",
+        "attributeName": "Primary Category Path",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "locale": "en_CA",
+          "value": "0:10017:21070:21071:32096"
+        }
+      ]
+    },
+    "clothing_size": {
+      "properties": {
+        "attributeId": "10804",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Clothing Size",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "12",
+          "source_key": "clothingsize",
+          "value": "12"
+        }
+      ]
+    },
+    "manufacturer": {
+      "properties": {
+        "attributeId": "95182",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Manufacturer",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Generic",
+          "source_key": "manufacturer",
+          "value": "Generic"
+        }
+      ]
+    },
+    "product_url_text": {
+      "properties": {
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:33 UTC 2017",
+        "isMultiValued": "false",
+        "taxonomy_version": "urn:taxonomy:pcs2.0",
+        "attribute_type": "STRING",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "attributeId": "86412",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "isMarketAttribute": "true",
+        "attributeName": "Product URL Text",
+        "updated": "Wed Aug 16 18:41:33 UTC 2017"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "display_attr_name": "url_text_key",
+          "locale": "en_CA",
+          "value": "/en/ip/Canada-1st-BV-item-sale-men-s-shirt/1HNUTIOJLSZR",
+          "source_key": "url_text_key",
+          "source_value": "/en/ip/Canada-1st-BV-item-sale-men-s-shirt/1HNUTIOJLSZR"
+        }
+      ]
+    },
+    "battery_type": {
+      "properties": {
+        "attributeId": "10358",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Contained Battery Type",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Does Not Contain a Battery",
+          "source_key": "batterytechnologytype",
+          "value": "Does Not Contain a Battery"
+        }
+      ]
+    },
+    "primary_shelf_id": {
+      "properties": {
+        "attributeId": "primary_shelf_id",
+        "attributeName": "Primary Shelf ID",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "locale": "en_CA",
+          "value": "32096"
+        }
+      ]
+    },
+    "model": {
+      "properties": {
+        "attributeId": "10337",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Model",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "DNL24061N",
+          "source_key": "modelnumber",
+          "value": "DNL24061N"
+        }
+      ]
+    },
+    "char_primary_category_path": {
+      "properties": {
+        "attributeId": "char_primary_category_path",
+        "attributeName": "Character Primary Category Path",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "locale": "en_CA",
+          "value": "Root/Clothing, Shoes & Accessories/Men/Men's Plus Size/Men's Plus Size Dress Shirts"
+        }
+      ]
+    },
+    "has_warranty": {
+      "properties": {
+        "attributeId": "10342",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Has Warranty",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "No",
+          "source_key": "haswarranty",
+          "value": "No"
+        }
+      ]
+    },
+    "product_long_description": {
+      "properties": {
+        "attributeId": "84122",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Product Long Description",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "keyFeaturesValue": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "source_key": "keyfeatures",
+          "value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt"
+        },
+        {
+          "locale": "en_CA",
+          "source_value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "keyFeaturesValue": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "source_key": "keyfeatures",
+          "value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt"
+        },
+        {
+          "locale": "en_CA",
+          "source_value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "keyFeaturesValue": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "source_key": "keyfeatures",
+          "value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt"
+        }
+      ]
+    },
+    "sku": {
+      "properties": {
+        "attributeId": "-205441108",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "SKU",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "source_value": "2e352462-9a15-4f44-a265-756ca6d03c6a",
+          "source_key": "sku",
+          "value": "2e352462-9a15-4f44-a265-756ca6d03c6a"
+        }
+      ]
+    },
+    "brand": {
+      "properties": {
+        "attributeId": "10848",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Brand",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Danskin",
+          "brand_code": null,
+          "source_key": "brand",
+          "value": "Danskin"
+        }
+      ]
+    },
+    "style_sleeve": {
+      "properties": {
+        "attributeId": "-47235667",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Sleeve Style",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "sleeveStyle",
+          "source_key": "sleevestyle",
+          "value": "sleeveStyle"
+        }
+      ]
+    },
+    "gtin": {
+      "properties": {
+        "attributeId": "84118",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-PRIMARY-aadb65e9-84cc-418c-961f-5b84019943d4",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "GTIN",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:21 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "source_value": "07724133703357",
+          "source_key": "gtin",
+          "value": "07724133703357",
+          "locale": "en_CA",
+          "display_attr_name": "GTIN"
+        }
+      ]
+    },
+    "is_set": {
+      "properties": {
+        "attributeId": "10885",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Is Set",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Yes",
+          "source_key": "isset",
+          "value": "Yes"
+        }
+      ]
+    },
+    "rh_path": {
+      "properties": {
+        "attributeId": "94969",
+        "isMultiValued": "false",
+        "taxonomy_version": "version",
+        "isMarketAttribute": "true",
+        "attribute_type": "STRING",
+        "attributeName": "RH Path",
+        "taxonomy": "pcs",
+        "display_attr_name": "rh_path",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "display_attr_name": "rh_path",
+          "locale": "en_CA",
+          "value": "99:990000"
+        }
+      ]
+    },
+    "item_id": {
+      "properties": {
+        "attributeId": "128982",
+        "fromPcp": "false",
+        "generated_by": "Qarth",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-PRIMARY-aadb65e9-84cc-418c-961f-5b84019943d4",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "taxonomy_version": "urn:taxonomy:pcs2.0",
+        "attributeName": "Item ID",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:21 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "isPrimary": "true",
+          "display_attr_name": "ITEM_ID",
+          "locale": "en_CA",
+          "value": "796882319",
+          "source_key": "item_id",
+          "source_value": "796882319"
+        }
+      ]
+    },
+    "age_group": {
+      "properties": {
+        "attributeId": "10301",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Age Group",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Adult",
+          "source_key": "agegroup",
+          "value": "Adult"
+        }
+      ]
+    },
+    "shirt_neck_style": {
+      "properties": {
+        "attributeId": "8582",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Clothing Neck Style",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "shirtNeckStyle",
+          "source_key": "shirtneckstyle",
+          "value": "shirtNeckStyle"
+        }
+      ]
+    },
+    "product_pt_family": {
+      "properties": {
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "taxonomy_version": "~draft",
+        "taxonomy": "pcs",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "orgId": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeId": "product_pt_family",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "attributeName": "Product PT Family",
+        "classification_type": "PRODUCT_TYPE",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "status": "VERIFIED",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "tag_source": "model_guess",
+          "model_version": "Fri Apr 28 17:00:13 PDT 2017",
+          "id": "upper_body_garments",
+          "value": "Upper-Body Garments"
+        }
+      ]
+    },
+    "product_name": {
+      "properties": {
+        "attributeId": "84123",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Product Name",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Canada 1st BV item sale men's shirt",
+          "source_key": "productname",
+          "value": "Canada 1st BV item sale men's shirt"
+        }
+      ]
+    },
+    "all_shelves": {
+      "properties": {
+        "attributeId": "shelf",
+        "added": "Wed Aug 16 11:41:33 PDT 2017",
+        "rule_changed": "N",
+        "attributeName": "All Shelves",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "status": "VERIFIED"
+      },
+      "values": [
+        {
+          "all_paths_str": "[[\"Root\",\"Clothing, Shoes & Accessories\",\"Men\",\"Men's Plus Size\",\"Men's Plus Size Dress Shirts\"]]",
+          "path_id": "[\"0\",\"10017\",\"21070\",\"21071\",\"32096\"]",
+          "all_paths_id": "[[\"0\",\"10017\",\"21070\",\"21071\",\"32096\"]]",
+          "taxonomy_version": "~draft",
+          "id": "32096",
+          "taxonomy": "site-walmart-ca",
+          "locale": "en_CA",
+          "value": "Men's Plus Size Dress Shirts",
+          "tag_source": "rule",
+          "path_str": "[\"Root\",\"Clothing, Shoes & Accessories\",\"Men\",\"Men's Plus Size\",\"Men's Plus Size Dress Shirts\"]"
+        },
+        {
+          "all_paths_str": "[[\"Root\",\"Clothing, Shoes & Accessories\",\"Testing Tenant ID\"]]",
+          "path_id": "[\"0\",\"10017\",\"5807774639543\"]",
+          "all_paths_id": "[[\"0\",\"10017\",\"5807774639543\"]]",
+          "taxonomy_version": "~draft",
+          "id": "5807774639543",
+          "taxonomy": "site-walmart-ca",
+          "locale": "en_CA",
+          "value": "Testing Tenant ID",
+          "tag_source": "rule",
+          "path_str": "[\"Root\",\"Clothing, Shoes & Accessories\",\"Testing Tenant ID\"]"
+        }
+      ]
+    },
+    "product_type": {
+      "properties": {
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "taxonomy_version": "~draft",
+        "taxonomy": "pcs",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "orgId": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeId": "product_type",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "attributeName": "Product Type",
+        "classification_type": "PRODUCT_TYPE",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "status": "VERIFIED",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "value": "Button-Up Shirts",
+          "charPath": "[[\"Clothing, Shoes & Accessories\",\"Upper-Body Garments\",\"Button-Up Shirts\"]]",
+          "model_version": "Fri Apr 28 17:00:13 PDT 2017",
+          "tag_source": "model_guess",
+          "idPath": "[[\"clothing_shoes_and_accessories\",\"upper_body_garments\",\"889\"]]",
+          "id": "889"
+        }
+      ]
+    },
+    "material": {
+      "properties": {
+        "attributeId": "10312",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Material",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Cotton Blend",
+          "source_key": "material",
+          "value": "Cotton Blend"
+        }
+      ]
+    },
+    "manufacturer_part_number": {
+      "properties": {
+        "attributeId": "10336",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Manufacturer Part Number",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "DNL24061N",
+          "source_key": "manufacturerpartnumber",
+          "value": "DNL24061N"
+        }
+      ]
+    },
+    "dress_shirt_size": {
+      "properties": {
+        "attributeId": "-526898005",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Dress Shirt Size",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "12",
+          "source_key": "dressshirtsize",
+          "value": "12"
+        }
+      ]
+    },
+    "offer_lifecycle_status": {
+      "properties": {
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017"
+      },
+      "values": [
+        {
+          "display_attr_name": "offer_lifecycle_status",
+          "locale": "en_CA",
+          "value": "ACTIVE"
+        }
+      ]
+    },
+    "product_short_description": {
+      "properties": {
+        "attributeId": "84128",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Short Description",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt",
+          "source_key": "shortdescription",
+          "value": "Wrangler Mens Short Sleeve Wrinkle Resist Plaid Woven Shirt"
+        }
+      ]
+    },
+    "actual_color": {
+      "properties": {
+        "attributeId": "10304",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Actual Color",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE",
+        "variantResourceType": "DEFAULT",
+        "isVariant": "true"
+      },
+      "values": [
+        {
+          "sourceType": "legacy_actual_color",
+          "locale": "en_CA",
+          "isVariant": "true",
+          "source_key": "color",
+          "value": "White",
+          "source_value": "White"
+        }
+      ]
+    },
+    "style_sleeve_length": {
+      "properties": {
+        "attributeId": "10601",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "Sleeve Length Style",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_value": "Short Sleeve",
+          "source_key": "sleevelengthstyle",
+          "value": "Short Sleeve"
+        }
+      ]
+    },
+    "reporting_hierarchy": {
+      "properties": {
+        "attributeId": "reporting_hierarchy",
+        "taxonomy_version": "~canada-reporting-live",
+        "attributeName": "Canada Reporting Hierarchy",
+        "taxonomy": "pcs",
+        "source": "MARKETPLACE_PARTNER",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "status": "VERIFIED"
+      },
+      "values": [
+        {
+          "path_id": "[\"99\",\"990000\"]",
+          "id": "990000",
+          "locale": "en_CA",
+          "value": "Default",
+          "tag_source": "rule",
+          "path_str": "[\"STORE SUPPLIES\",\"Default\"]"
+        }
+      ]
+    },
+    "ironbank_category": {
+      "properties": {
+        "attributeId": "-19436162",
+        "fromPcp": "false",
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeName": "IronBank Category",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "source_key": "ironbank_category",
+          "value": "Clothing",
+          "charPath": "[\"Clothing\",\"Clothing\"]",
+          "source_value": "Clothing",
+          "idPath": "[\"clothing\",\"clothing_other\"]"
+        }
+      ]
+    },
+    "product_category": {
+      "properties": {
+        "added": "Wed Aug 16 18:41:21 UTC 2017",
+        "taxonomy_version": "~draft",
+        "taxonomy": "pcs",
+        "source": "mp",
+        "qid": "MARKETPLACE_PARTNER#c43ee296-9c26-49ab-bb3c-b10209759110#2e352462-9a15-4f44-a265-756ca6d03c6a",
+        "orgId": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "attributeId": "segment",
+        "org_id": "c43ee296-9c26-49ab-bb3c-b10209759110",
+        "requestId": "CANADA-EN-NEWVARIANT-e77377ef-5ece-4696-b501-27d527c0d75b",
+        "attributeName": "Product Category",
+        "classification_type": "PRODUCT_TYPE",
+        "updated": "Wed Aug 16 18:41:32 UTC 2017",
+        "status": "VERIFIED",
+        "content_lifecycle_status": "ACTIVE"
+      },
+      "values": [
+        {
+          "locale": "en_CA",
+          "tag_source": "model_guess",
+          "model_version": "Fri Apr 28 17:00:13 PDT 2017",
+          "id": "clothing_shoes_and_accessories",
+          "value": "Clothing, Shoes & Accessories"
+        }
+      ]
+    }
+  },
+  "assets": {
+    "properties": {
+      "entityType": "PRODUCT",
+      "product_id": "1HNUTIOJLSZR",
+      "groupId": "1E962DB995AE4637A5720F3B0DEC27D4",
+      "groupVersion": "1502908893385",
+      "publishStatus": null
+    },
+    "values": [
+      {
+        "dimensions": {
+          "IMAGE_SIZE_450": "https://i5-qa.walmartimages.com/asr/a7a4b121-1391-4bdc-a3e8-5ad0c60a0ea7_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "IMAGE_SIZE_100": "https://i5-qa.walmartimages.com/asr/a7a4b121-1391-4bdc-a3e8-5ad0c60a0ea7_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+          "IMAGE_SIZE_180": "https://i5-qa.walmartimages.com/asr/a7a4b121-1391-4bdc-a3e8-5ad0c60a0ea7_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "IMAGE_SIZE_60": "https://i5-qa.walmartimages.com/asr/a7a4b121-1391-4bdc-a3e8-5ad0c60a0ea7_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=60&odnWidth=60&odnBg=ffffff"
+        },
+        "properties": {
+          "assetId": "F8B47C0A69BC46F4910D053AD17E0C2B",
+          "assetRank": "2",
+          "width": "500",
+          "assetUrl": "https://i5-qa.walmartimages.com/asr/a7a4b121-1391-4bdc-a3e8-5ad0c60a0ea7_1.f3360920e002595be713dd20ec8f6fd2.jpeg",
+          "publishStatus": "PUBLISHED",
+          "providerName": "MARKETPLACE_PARTNER_126602",
+          "assetType": "SECONDARY",
+          "height": "500"
+        },
+        "metadata": {
+          "imageLabelAttributeName": "productSecondaryImageURL"
+        }
+      },
+      {
+        "dimensions": {
+          "IMAGE_SIZE_450": "https://i5-qa.walmartimages.com/asr/fe43ee40-a76b-486c-9d43-1184d07345e4_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "IMAGE_SIZE_100": "https://i5-qa.walmartimages.com/asr/fe43ee40-a76b-486c-9d43-1184d07345e4_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+          "IMAGE_SIZE_180": "https://i5-qa.walmartimages.com/asr/fe43ee40-a76b-486c-9d43-1184d07345e4_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "IMAGE_SIZE_60": "https://i5-qa.walmartimages.com/asr/fe43ee40-a76b-486c-9d43-1184d07345e4_1.f3360920e002595be713dd20ec8f6fd2.jpeg?odnHeight=60&odnWidth=60&odnBg=ffffff"
+        },
+        "properties": {
+          "assetId": "66555A347EF448AE808E2E42502136CF",
+          "assetRank": "1",
+          "width": "500",
+          "assetUrl": "https://i5-qa.walmartimages.com/asr/fe43ee40-a76b-486c-9d43-1184d07345e4_1.f3360920e002595be713dd20ec8f6fd2.jpeg",
+          "publishStatus": "PUBLISHED",
+          "providerName": "MARKETPLACE_PARTNER_126602",
+          "assetType": "PRIMARY",
+          "height": "500"
+        },
+        "metadata": {
+          "imageLabelAttributeName": "mainImageUrl"
+        }
+      }
+    ]
+  },
+  "status": "PRODUCT_PROCESSED",
+  "created_at": 1502908882363,
+  "updated_at": 1502908894196
+}
